@@ -200,9 +200,8 @@ const Footer = () => {
         {/* Others */}
         <div style={columnStyle}>
           <div style={sectionTitle}>Others</div>
-                    <FooterLink href="/admin">Admin Login</FooterLink>
+          <FooterLink href="/admin">Admin Login</FooterLink>
           <FooterLink href="/login">Agent Login</FooterLink>
-
           <FooterLink href="#">Our teams</FooterLink>
           <FooterLink href="#">Sustainability</FooterLink>
           <FooterLink href="#">Press</FooterLink>
